@@ -23,5 +23,5 @@ This project is a **Medical Projects Management System** built with **PHP 8.3** 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/axelbad/medical-projects.git
+   git clone https://github.com/axelbad/TestNetMedica.git
    cd medical-projects
