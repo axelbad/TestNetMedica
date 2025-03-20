@@ -1,0 +1,15 @@
+{
+    "name": "axelbad/test-med",
+    "autoload": {
+        "psr-4": {
+            "App\\": "backend/"
+        }
+    },
+    "authors": [
+        {
+            "name": "axelbad",
+            "email": "axelba@gmail.com"
+        }
+    ],
+    "require": {}
+}
